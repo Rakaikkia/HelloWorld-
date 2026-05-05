@@ -66,11 +66,11 @@ python HelloWorld.py
 | Language | Day added | Status |
 |----------|-----------|--------|
 | [Python](https://github.com/Rakaikkia/HelloWorld-/tree/main/python) | 1 | ✅ Completed |
-| *more coming soon…* | – | ⌛ Planned |
+| *Next lang... (probably Java)* | – | ⌛ Planned |
 
 > ✅ Completed – all three variations (basic, pretty, proper) are present, and OS‑specific versions (if needed) are done.  
 > 🚧 Partial – only some variations are done.  
-> 📅 Planned – will be added in a future daily update.
+> ⌛ Planned – will be added in a future daily update.
 
 ---
 
