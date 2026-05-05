@@ -1,0 +1,7 @@
+run
+`python <filename>`
+
+or
+`chmod +x ./<file>`
+`./<file>`
+on UNIX systems
