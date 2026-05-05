@@ -27,10 +27,11 @@ For system‑dependent languages (like assembly), you will find subfolders `wind
 
 ```
 HelloWorld-/
-├── python/                  # folder named after the language
+├── python/                 # folder named after the language
 │   ├── hello.py            # basic version
 │   ├── hello_world.py      # pretty version
 │   ├── main.py             # proper / idiomatic version
+│   ├── exotic.py           # exotic variant idk
 │   └── run                 # launch instructions (inside every language folder)
 ├── c_plus_plus/            # C++ -> folder name: C_PLUS_PLUS (no special chars)
 ├── assembly/               # example for system‑dependent languages
@@ -83,7 +84,7 @@ If you’d like to add a missing language or improve an existing one:
 2. Fork the repo, create a new branch.  
 3. Add your language as a new folder (use the naming convention: `C_PLUS_PLUS`, `F_SHARP`, etc.).  
    - Inside, create `run` file with clear compile/run instructions.  
-   - Provide the three variants if possible (`basic`, `pretty`, `proper`).
+   - Provide the three variants if possible (`basic`, `pretty`, `proper`). (or one, wdc tbh)
 4. Update the table in `README.md` (add a new row with your language, day, and status).  
 5. Submit a pull request.
 
@@ -106,16 +107,4 @@ Feel free to use the examples for learning or teaching.
 ---
 
 **⭐ Star this repo if you like the idea – and check back tomorrow for a new language!**  
-```
-
-You can copy and paste this directly into your `README.md`. It covers:
-- Badges (size, last commit, language counter, license).
-- Structured description of the three versions.
-- Folder naming rules (`C_PLUS_PLUS` for C++).
-- Table with your first entry (Python) – ready to add more rows.
-- `run` file mention.
-- Contribution guidelines (you said you plan to accept PRs).
-- Clean, beginner‑friendly English.
-```
-
 Readme is neuro slop btw (sorry)
