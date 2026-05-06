@@ -1,0 +1,9 @@
+install MinGW-w64 (for g++ and mingw32-make)
+
+open cmd.exe
+
+`mingw32-make makefile_WINDOWS`
+or
+`mingw32-make makefile_WINDOWS clean`
+
+If you got `'g++' is not recognized...` set `CXX = C:/mingw64/bin/g++.exe` in makefile_WINDOWS
