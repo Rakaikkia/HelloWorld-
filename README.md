@@ -67,6 +67,7 @@ python HelloWorld.py
 | Language | Day added | Status |
 |----------|-----------|--------|
 | [Python](https://github.com/Rakaikkia/HelloWorld-/tree/main/python) | 1 | ✅ Completed |
+| [C++](https://github.com/Rakaikkia/HelloWorld-/tree/main/c_plus_plus) | 1 | 🚧 Partial |
 | *Next lang... (probably Java)* | – | ⌛ Planned |
 
 > ✅ Completed – all three variations (basic, pretty, proper) are present, and OS‑specific versions (if needed) are done.  
