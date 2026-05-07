@@ -68,7 +68,7 @@ python HelloWorld.py
 |----------|-----------|--------|
 | [Python](https://github.com/Rakaikkia/HelloWorld-/tree/main/python) | 1 | ✅ Completed |
 | [C++](https://github.com/Rakaikkia/HelloWorld-/tree/main/c_plus_plus) | 2 | 🚧 Partial |
-| [C++](https://github.com/Rakaikkia/HelloWorld-/tree/main/fortran) | 3 | 🚧 Partial |
+| [Fortran](https://github.com/Rakaikkia/HelloWorld-/tree/main/fortran) | 3 | 🚧 Partial |
 | *Next lang... (probably Java)* | – | ⌛ Planned |
 
 > ✅ Completed – all three variations (basic, pretty, proper) are present, and OS‑specific versions (if needed) are done.  
