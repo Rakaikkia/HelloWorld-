@@ -2,7 +2,7 @@
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Rakaikkia/HelloWorld-?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Rakaikkia/HelloWorld-?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-/commits/main)
-[![Languages count](https://img.shields.io/badge/daily_languages-1-blue?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
+[![Languages count](https://img.shields.io/badge/daily_languages-3-blue?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > **One language, three greetings, every single day.**  
@@ -48,7 +48,7 @@ HelloWorld-/
 
 ## 🚀 How to run any program
 
-Inside **every language folder** you'll find a file named `run`.  
+Inside **every language folder** (or no) you'll find a file named `run`.  
 It contains step‑by‑step instructions for compiling (if needed) and executing the code on different operating systems.
 
 **Example** – to run the Python examples:
@@ -68,6 +68,7 @@ python HelloWorld.py
 |----------|-----------|--------|
 | [Python](https://github.com/Rakaikkia/HelloWorld-/tree/main/python) | 1 | ✅ Completed |
 | [C++](https://github.com/Rakaikkia/HelloWorld-/tree/main/c_plus_plus) | 2 | 🚧 Partial |
+| [C++](https://github.com/Rakaikkia/HelloWorld-/tree/main/fortran) | 3 | 🚧 Partial |
 | *Next lang... (probably Java)* | – | ⌛ Planned |
 
 > ✅ Completed – all three variations (basic, pretty, proper) are present, and OS‑specific versions (if needed) are done.  
