@@ -1,6 +1,6 @@
 CXX = g++
-CXXFLAGS = -std=c++23 -Wall -Wextra -Ofast -pedantic
-build/HelloWorld_exotic_main_cout: CXXFLAGS = -std=c++14 -Wall -Wextra -Ofast -pedantic
+CXXFLAGS = -std=c++23 -Ofast -pedantic
+build/HelloWorld_exotic_main_cout: CXXFLAGS = -std=c++14 -Ofast -pedantic
 BUILD_DIR = build
 
 SOURCES := $(wildcard *.cpp)
