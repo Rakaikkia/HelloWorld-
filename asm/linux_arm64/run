@@ -1,0 +1,7 @@
+on x86 (aarch64-linux-gnu must be installed):
+    `make`
+    `qemu-aarch64 ./build/*`
+
+on arm:
+    `make`
+    `./build/*`
