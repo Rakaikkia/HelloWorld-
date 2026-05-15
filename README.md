@@ -2,7 +2,7 @@
 
 [![GitHub repo size](https://img.shields.io/github/repo-size/Rakaikkia/HelloWorld-?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Rakaikkia/HelloWorld-?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-/commits/main)
-[![Languages count](https://img.shields.io/badge/daily_languages-11-blue?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
+[![Languages count](https://img.shields.io/badge/daily_languages-12-blue?style=flat-square)](https://github.com/Rakaikkia/HelloWorld-)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 > **One language, three greetings, every single day.**
@@ -77,6 +77,7 @@ python HelloWorld.py
 | [Swift](https://github.com/Rakaikkia/HelloWorld-/tree/main/swift) | 8 | ✅ Completed |
 | [Perl](https://github.com/Rakaikkia/HelloWorld-/tree/main/perl) | 9 | ✅ Completed |
 | [Lua](https://github.com/Rakaikkia/HelloWorld-/tree/main/lua) | 10 | ✅ Completed |
+| [Rust](https://github.com/Rakaikkia/HelloWorld-/tree/main/rust) | 11 | ✅ Completed |
 | *Next lang... (probably Java)* | – | ⌛ Planned |
 
 > ✅ Completed – all three variations (basic, pretty, proper) are present, and OS‑specific versions (if needed) are done.
