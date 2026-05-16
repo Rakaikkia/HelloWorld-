@@ -1,7 +1,0 @@
-download TempleOS ISO
-run it with
-qemu-system-x86_64 -cdrom TempleOS.iso -hda hd.img
-
-Open Ed
-Create files or mount already created
-Done!
