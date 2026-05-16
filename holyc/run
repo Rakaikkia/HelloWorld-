@@ -1,6 +1,4 @@
 download TempleOS ISO
-wget https://archive.org/download/TempleOS_ISO/TempleOS.iso
-
 run it with
 qemu-system-x86_64 -cdrom TempleOS.iso -hda hd.img
 
