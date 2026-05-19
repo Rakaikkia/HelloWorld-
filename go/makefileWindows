@@ -1,0 +1,22 @@
+GO       = go
+GOFLAGS  = build -ldflags="-s -w"
+BUILD_DIR = build
+
+SOURCES := $(wildcard HelloWorld_*.go)
+TARGETS := $(addprefix $(BUILD_DIR)/, $(addsuffix .exe, $(basename $(SOURCES))))
+
+all: $(TARGETS)
+
+$(BUILD_DIR)/%.exe: %.go | $(BUILD_DIR)
+	$(GO) $(GOFLAGS) -o $@ $<
+
+$(BUILD_DIR):
+	if not exist $(BUILD_DIR) mkdir $(BUILD_DIR)
+
+run: $(TARGETS)
+	@for %i in ($(TARGETS)) do (echo === Running %i === & %i)
+
+clean:
+	if exist $(BUILD_DIR) rmdir /s /q $(BUILD_DIR)
+
+.PHONY: all run clean
